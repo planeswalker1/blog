@@ -105,13 +105,13 @@ paginate = 10
 		content = "I'd love to hear from you, get in touch with me!"
 
 		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
-		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
-		]
-		phone = "000-000-0000"
+		# gmaps_address = "39.7889055,-120.5443524"
+		# address = [
+		# 	"1234 Somewhere Rd.",
+		# 	"Nashville, TN 00000",
+		# 	"United States"
+		# ]
+		# phone = "000-000-0000"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
